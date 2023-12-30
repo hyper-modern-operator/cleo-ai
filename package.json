@@ -30,6 +30,7 @@
     "@opaline/core": "*"
   },
   "devDependencies": {
+    "@types/node": "*",
     "lint-staged": "*",
     "pre-commit": "*",
     "prettier": "*",

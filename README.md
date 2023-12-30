@@ -29,3 +29,13 @@ TODO
 
 CLEO is built on the following stack:
 - [opaline](https://github.com/d4rkr00t/opaline)
+
+### TODO
+
+- [ ] Research a better CLI development stack (opaline isn't cool enough)
+
+## Resources
+
+- https://github.com/shadawck/awesome-cli-frameworks
+- https://github.com/DecOperations/s3w
+- https://github.com/DecOperations/lzd
