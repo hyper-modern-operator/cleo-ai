@@ -33,6 +33,7 @@ CLEO is built on the following stack:
 ### TODO
 
 - [ ] Research a better CLI development stack (opaline isn't cool enough)
+- [ ] Add AI tools (https://hackaday.com/2023/12/29/using-local-ai-on-the-command-line-to-rename-images-and-more/)
 
 ## Resources
 
